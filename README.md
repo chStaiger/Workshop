@@ -1,6 +1,6 @@
 # Demo repo for the workshop
 
-My little code repo2
+My little code repo1
 
 ## Dependencies
 
