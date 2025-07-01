@@ -10,3 +10,9 @@ My little code repo
 
 - numpy
 - scipy
+
+## Useage
+
+```py
+python3 __main__()
+```
