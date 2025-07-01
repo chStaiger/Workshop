@@ -1,7 +1,11 @@
+# Mac
+.DS_Store
+
 # Data
 /data/temp
 /data/processed
 /data/raw
+/data/sensitive
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
